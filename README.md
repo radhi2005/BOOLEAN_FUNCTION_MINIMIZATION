@@ -58,7 +58,7 @@ endmodule
 ```
 
 
-**RTL realization**
+## RTL realization
 
 ![322416806-a86b8a88-9cfd-46f7-a430-98227cff9fc4](https://github.com/radhi2005/BOOLEAN_FUNCTION_MINIMIZATION/assets/167347086/051255f4-eb6f-4017-ae89-2421aada1de5)
 
